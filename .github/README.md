@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto Rocketseat Discover" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Rocketseat Discover" src="https://github.com/noliveiranat/projeto-rocketseat-discover/blob/main/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
