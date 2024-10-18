@@ -19,7 +19,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="Projeto Rocketseat Discover" src=".github/Cover.jpg" width="100%">
+=======
+  <img alt="Projeto Rocketseat Discover" src="https://github.com/noliveiranat/projeto-rocketseat-discover/blob/main/Cover.jpg" width="100%">
+>>>>>>> 6df78032f24a33095db22122042f0503c89b7c42
 </p>
 
 ## 🚀 Tecnologias
@@ -47,4 +51,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+>>>>>>> 6df78032f24a33095db22122042f0503c89b7c42
